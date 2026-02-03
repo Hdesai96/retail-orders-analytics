@@ -144,8 +144,8 @@ Harshni Desai
 Master's Student - Data Analytics & Information Systems  
 Texas State University
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+- LinkedIn:https://www.linkedin.com/in/harshni-desai/
+- Email:desai.harshni.d@gmail.com
 - GitHub: https://github.com/Hdesai96/retail-orders-analytics
 
 ## License
