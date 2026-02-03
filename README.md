@@ -77,7 +77,7 @@ retail-orders-analytics/
 
 1. Clone this repository:
 ```bash
-git clone  https://github.com/yourusername/retail-orders-analytics.git
+git clone  https://github.com/Hdesai96/retail-orders-analytics.git
 cd retail-orders-analytics
 ```
 
